@@ -1,0 +1,10 @@
+{
+  "name": "douyin-im-send",
+  "private": true,
+  "type": "module",
+  "description": "Send one Douyin friend text message with the PC IM protobuf protocol.",
+  "scripts": {
+    "send": "node src/send.js",
+    "who": "node src/who.js"
+  }
+}

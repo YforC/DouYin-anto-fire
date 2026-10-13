@@ -1,0 +1,5 @@
+node_modules/
+*.log
+www.douyin.com_json_*.json
+*cookie*.json
+.env
